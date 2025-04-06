@@ -18,10 +18,6 @@ To view and interact with this dashboard, you need:
 ## How to Use
 1. Download the `.pbix` file from this repository.
 2. Open it using Power BI Desktop.
-3. Explore the different visualizations and insights.
 
-## Author
-[Your Name]
 
-## License
-This project is open-source under the [MIT License](LICENSE).
+
